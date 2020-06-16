@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CartaoApplication<cartao>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mastertech.cartao.CartaoApplication",
+            "projectName": "cartao",
+            "args": ""
+        }
+    ]
+}
